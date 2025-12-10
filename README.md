@@ -1,6 +1,7 @@
 # Projects in Chemical Process Optimization (QUI044 - UTFPR-FB)
 
 Repository link: https://github.com/LeonardoUnicamp/Projects_in_Chemical_Process_Optimization
+Projects executed in a Python environment via VSCode
 
 ## Challenge 1
 Replicate the methodology from the article “A nonsmooth version of the univariate optimization algorithm for locating the nearest extremum (locating extremum in nonsmooth univariate optimization)” by Marek J. Smietanski (DOI: 10.2478/s11533-008-0039-3) using Python.
@@ -14,6 +15,7 @@ Creation and solution of a Traveling Salesman Problem (TSP) in Python.
 # Projetos de Otimização de Processos Químicos (QUI044 - UTFPR-FB)
 
 Link do repositório: https://github.com/LeonardoUnicamp/Projects_in_Chemical_Process_Optimization
+Projetos executados em ambiente Python via VSCode
 
 ## Desafio 1
 Replicar a metodologia do artigo "A nonsmooth version of the univariate optimization algorithm for locating the nearest extremum (locating extremum in nonsmooth univariate optimization)" de Marek J. Smietanski (DOI: 10.2478/s11533-008-0039-3); em Python.
